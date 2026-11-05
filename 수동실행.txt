@@ -1,0 +1,14 @@
+Backend----------------------------------------------------------------------------
+cd /c/ajb/git/CircleToSearch/backend
+source .venv/Scripts/activate
+python -m uvicorn main:app --app-dir . --reload --host 127.0.0.1 --port 8001
+
+접속: http://localhost:8001
+
+frontend----------------------------------------------------------------------------
+cd /c/ajb/git/CircleToSearch/frontend
+npm run dev
+
+접속: http://localhost:5173
+
+

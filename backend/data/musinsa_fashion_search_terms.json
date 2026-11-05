@@ -1,0 +1,2635 @@
+{
+  "source": "musinsa",
+  "collected_at": "2026-11-04T03:21:20.033764+00:00",
+  "reference_file": "musinsa_fashion_reference.json",
+  "visited_search_pages": 17,
+  "search_pages": [
+    {
+      "search_keyword": "티셔츠",
+      "major": "상의",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A",
+      "collected_at": "2026-11-04T03:21:20.643299+00:00",
+      "status": "ok",
+      "raw_related_count": 9,
+      "accepted_count": 9,
+      "raw_terms": [
+        "긴팔티셔츠",
+        "긴소매 티셔츠",
+        "반팔티셔츠",
+        "레이어드 티셔츠",
+        "스트라이프 티셔츠",
+        "크롭 티셔츠",
+        "7부 티셔츠",
+        "럭비 티셔츠",
+        "맨투맨"
+      ],
+      "accepted_terms": [
+        "긴팔티셔츠",
+        "긴소매 티셔츠",
+        "반팔티셔츠",
+        "레이어드 티셔츠",
+        "스트라이프 티셔츠",
+        "크롭 티셔츠",
+        "7부 티셔츠",
+        "럭비 티셔츠",
+        "맨투맨"
+      ]
+    },
+    {
+      "search_keyword": "청바지",
+      "major": "바지",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A",
+      "collected_at": "2026-11-04T03:21:24.909684+00:00",
+      "status": "ok",
+      "raw_related_count": 10,
+      "accepted_count": 7,
+      "raw_terms": [
+        "남자 청바지",
+        "와이드 청바지",
+        "세미와이드 청바지",
+        "흑청바지",
+        "밴딩 청바지",
+        "진청바지",
+        "연청바지",
+        "여름 청바지",
+        "니트",
+        "바지"
+      ],
+      "accepted_terms": [
+        "와이드 청바지",
+        "세미와이드 청바지",
+        "흑청바지",
+        "밴딩 청바지",
+        "진청바지",
+        "연청바지",
+        "바지"
+      ]
+    },
+    {
+      "search_keyword": "자켓",
+      "major": "아우터",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A",
+      "collected_at": "2026-11-04T03:21:26.085389+00:00",
+      "status": "ok",
+      "raw_related_count": 18,
+      "accepted_count": 17,
+      "raw_terms": [
+        "스웨이드 자켓",
+        "블레이저",
+        "워크자켓",
+        "트러커 자켓",
+        "레더자켓",
+        "가죽자켓",
+        "필드자켓",
+        "겨울 자켓",
+        "블루종",
+        "데님자켓",
+        "점퍼",
+        "아우터",
+        "청자켓",
+        "퍼자켓",
+        "항공점퍼",
+        "숏코트",
+        "야상",
+        "무스탕"
+      ],
+      "accepted_terms": [
+        "스웨이드 자켓",
+        "블레이저",
+        "워크자켓",
+        "트러커 자켓",
+        "레더자켓",
+        "가죽자켓",
+        "필드자켓",
+        "블루종",
+        "데님자켓",
+        "점퍼",
+        "아우터",
+        "청자켓",
+        "퍼자켓",
+        "항공점퍼",
+        "숏코트",
+        "야상",
+        "무스탕"
+      ]
+    },
+    {
+      "search_keyword": "셔츠",
+      "major": "상의",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A",
+      "collected_at": "2026-11-04T03:21:27.329618+00:00",
+      "status": "ok",
+      "raw_related_count": 8,
+      "accepted_count": 6,
+      "raw_terms": [
+        "남자 셔츠",
+        "체크셔츠",
+        "스트라이프 셔츠",
+        "크롭 셔츠",
+        "반팔셔츠",
+        "데님셔츠",
+        "니트",
+        "넥타이"
+      ],
+      "accepted_terms": [
+        "체크셔츠",
+        "스트라이프 셔츠",
+        "크롭 셔츠",
+        "반팔셔츠",
+        "데님셔츠",
+        "니트"
+      ]
+    },
+    {
+      "search_keyword": "니트",
+      "major": "상의",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A",
+      "collected_at": "2026-11-04T03:21:28.475100+00:00",
+      "status": "ok",
+      "raw_related_count": 18,
+      "accepted_count": 8,
+      "raw_terms": [
+        "브이넥 니트",
+        "헨리넥 니트",
+        "폴로 니트",
+        "니트집업",
+        "니트 가디건",
+        "크롭 니트",
+        "수아레 니트",
+        "아우터",
+        "니트패딩",
+        "반팔니트",
+        "맨투맨",
+        "롱슬리브",
+        "헨리넥",
+        "셔츠",
+        "가디건",
+        "폴로",
+        "청바지",
+        "수아레"
+      ],
+      "accepted_terms": [
+        "브이넥 니트",
+        "헨리넥 니트",
+        "니트집업",
+        "니트 가디건",
+        "크롭 니트",
+        "반팔니트",
+        "맨투맨",
+        "셔츠"
+      ]
+    },
+    {
+      "search_keyword": "맨투맨",
+      "major": "상의",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A",
+      "collected_at": "2026-11-04T03:21:29.563329+00:00",
+      "status": "ok",
+      "raw_related_count": 17,
+      "accepted_count": 9,
+      "raw_terms": [
+        "남자 맨투맨",
+        "나이키 맨투맨",
+        "아디다스 맨투맨",
+        "폴로 맨투맨",
+        "챔피온 맨투맨",
+        "무지 맨투맨",
+        "오버핏 맨투맨",
+        "기모 맨투맨",
+        "크롭 맨투맨",
+        "반집업 맨투맨",
+        "롱슬리브",
+        "후드집업",
+        "긴팔티",
+        "긴팔",
+        "후드티",
+        "후드",
+        "니트"
+      ],
+      "accepted_terms": [
+        "무지 맨투맨",
+        "오버핏 맨투맨",
+        "기모 맨투맨",
+        "크롭 맨투맨",
+        "반집업 맨투맨",
+        "후드집업",
+        "후드티",
+        "후드",
+        "니트"
+      ]
+    },
+    {
+      "search_keyword": "코트",
+      "major": "아우터",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A",
+      "collected_at": "2026-11-04T03:21:30.644227+00:00",
+      "status": "ok",
+      "raw_related_count": 12,
+      "accepted_count": 11,
+      "raw_terms": [
+        "롱코트",
+        "숏코트",
+        "하프코트",
+        "발마칸 코트",
+        "트렌치코트",
+        "떡볶이코트",
+        "카코트",
+        "하이넥 코트",
+        "캐시미어 코트",
+        "야상",
+        "패딩",
+        "겨울 아우터"
+      ],
+      "accepted_terms": [
+        "롱코트",
+        "숏코트",
+        "하프코트",
+        "발마칸 코트",
+        "트렌치코트",
+        "떡볶이코트",
+        "카코트",
+        "하이넥 코트",
+        "캐시미어 코트",
+        "야상",
+        "패딩"
+      ]
+    },
+    {
+      "search_keyword": "패딩",
+      "major": "아우터",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A",
+      "collected_at": "2026-11-04T03:21:31.951041+00:00",
+      "status": "ok",
+      "raw_related_count": 18,
+      "accepted_count": 6,
+      "raw_terms": [
+        "무신사 스탠다드 경량패딩",
+        "숏패딩",
+        "노스페이스 패딩",
+        "경량패딩",
+        "롱패딩",
+        "살로몬 패딩",
+        "뉴발란스 패딩",
+        "스파오 경량패딩",
+        "디스커버리 패딩",
+        "나이키 패딩",
+        "패딩조끼",
+        "노스페이스 경량패딩",
+        "무탠다드 경량패딩",
+        "무탠다드 패딩",
+        "노스페이스",
+        "코트",
+        "스파오 패딩",
+        "후리스"
+      ],
+      "accepted_terms": [
+        "숏패딩",
+        "경량패딩",
+        "롱패딩",
+        "패딩조끼",
+        "코트",
+        "후리스"
+      ]
+    },
+    {
+      "search_keyword": "슬랙스",
+      "major": "바지",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A",
+      "collected_at": "2026-11-04T03:21:33.079234+00:00",
+      "status": "ok",
+      "raw_related_count": 10,
+      "accepted_count": 7,
+      "raw_terms": [
+        "무탠다드 슬랙스",
+        "세미와이드 슬랙스",
+        "와이드 슬랙스",
+        "밴딩 슬랙스",
+        "남자 슬랙스",
+        "부츠컷 슬랙스",
+        "스트라이프 슬랙스",
+        "리얼 와이드 히든 밴딩 슬랙스",
+        "와이드 히든 밴딩 슬랙스",
+        "바지"
+      ],
+      "accepted_terms": [
+        "세미와이드 슬랙스",
+        "와이드 슬랙스",
+        "밴딩 슬랙스",
+        "부츠컷 슬랙스",
+        "스트라이프 슬랙스",
+        "와이드 히든 밴딩 슬랙스",
+        "바지"
+      ]
+    },
+    {
+      "search_keyword": "반바지",
+      "major": "바지",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EB%B0%98%EB%B0%94%EC%A7%80&gf=A",
+      "collected_at": "2026-11-04T03:21:34.219247+00:00",
+      "status": "ok",
+      "raw_related_count": 7,
+      "accepted_count": 3,
+      "raw_terms": [
+        "트레이닝 반바지",
+        "남자 반바지",
+        "운동 반바지",
+        "청반바지",
+        "나이키 반바지",
+        "아디다스 반바지",
+        "언더아머 반바지"
+      ],
+      "accepted_terms": [
+        "트레이닝 반바지",
+        "운동 반바지",
+        "청반바지"
+      ]
+    },
+    {
+      "search_keyword": "스커트",
+      "major": "원피스/스커트",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A",
+      "collected_at": "2026-11-04T03:21:35.751573+00:00",
+      "status": "ok",
+      "raw_related_count": 7,
+      "accepted_count": 7,
+      "raw_terms": [
+        "미니스커트",
+        "롱스커트",
+        "플리츠 스커트",
+        "미디 스커트",
+        "레이어드 스커트",
+        "스커트팬츠",
+        "새틴스커트"
+      ],
+      "accepted_terms": [
+        "미니스커트",
+        "롱스커트",
+        "플리츠 스커트",
+        "미디 스커트",
+        "레이어드 스커트",
+        "스커트팬츠",
+        "새틴스커트"
+      ]
+    },
+    {
+      "search_keyword": "운동화",
+      "major": "신발",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%9A%B4%EB%8F%99%ED%99%94&gf=A",
+      "collected_at": "2026-11-04T03:21:36.991311+00:00",
+      "status": "ok",
+      "raw_related_count": 10,
+      "accepted_count": 5,
+      "raw_terms": [
+        "뉴발란스 운동화",
+        "아식스 운동화",
+        "아디다스 운동화",
+        "나이키 운동화",
+        "메리제인 운동화",
+        "키높이 운동화",
+        "통굽 운동화",
+        "스니커즈",
+        "아식스",
+        "신발"
+      ],
+      "accepted_terms": [
+        "메리제인 운동화",
+        "키높이 운동화",
+        "통굽 운동화",
+        "스니커즈",
+        "신발"
+      ]
+    },
+    {
+      "search_keyword": "구두",
+      "major": "신발",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A",
+      "collected_at": "2026-11-04T03:21:38.507789+00:00",
+      "status": "ok",
+      "raw_related_count": 9,
+      "accepted_count": 6,
+      "raw_terms": [
+        "정장구두",
+        "여성구두",
+        "슬링백 구두",
+        "남자구두",
+        "착한구두",
+        "키높이 구두",
+        "더비슈즈",
+        "로퍼",
+        "신발"
+      ],
+      "accepted_terms": [
+        "정장구두",
+        "슬링백 구두",
+        "키높이 구두",
+        "더비슈즈",
+        "로퍼",
+        "신발"
+      ]
+    },
+    {
+      "search_keyword": "가방",
+      "major": "가방",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A",
+      "collected_at": "2026-11-04T03:21:39.713736+00:00",
+      "status": "ok",
+      "raw_related_count": 16,
+      "accepted_count": 7,
+      "raw_terms": [
+        "여자 가방",
+        "숄더백",
+        "백팩",
+        "토트백",
+        "보부상가방",
+        "크로스백",
+        "남자 가방",
+        "노트북 가방",
+        "마뗑킴 가방",
+        "책가방",
+        "스웨이드 가방",
+        "등산가방",
+        "아크테릭스 가방",
+        "에코백",
+        "백",
+        "마뗑킴"
+      ],
+      "accepted_terms": [
+        "백팩",
+        "보부상가방",
+        "노트북 가방",
+        "책가방",
+        "스웨이드 가방",
+        "등산가방",
+        "에코백"
+      ]
+    },
+    {
+      "search_keyword": "모자",
+      "major": "모자",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EB%AA%A8%EC%9E%90&gf=A",
+      "collected_at": "2026-11-04T03:21:41.111030+00:00",
+      "status": "ok",
+      "raw_related_count": 10,
+      "accepted_count": 4,
+      "raw_terms": [
+        "캡모자",
+        "볼캡",
+        "mlb 모자",
+        "뉴에라 모자",
+        "이미스 모자",
+        "살로몬 모자",
+        "러닝모자",
+        "폴로 모자",
+        "비니",
+        "나이키 모자"
+      ],
+      "accepted_terms": [
+        "캡모자",
+        "볼캡",
+        "러닝모자",
+        "비니"
+      ]
+    },
+    {
+      "search_keyword": "시계",
+      "major": "소품",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%8B%9C%EA%B3%84&gf=A",
+      "collected_at": "2026-11-04T03:21:42.242313+00:00",
+      "status": "ok",
+      "raw_related_count": 8,
+      "accepted_count": 3,
+      "raw_terms": [
+        "남자 시계",
+        "여성 손목시계",
+        "메탈시계",
+        "손목시계",
+        "가죽시계",
+        "카시오시계",
+        "여자 시계",
+        "카시오"
+      ],
+      "accepted_terms": [
+        "메탈시계",
+        "손목시계",
+        "가죽시계"
+      ]
+    },
+    {
+      "search_keyword": "벨트",
+      "major": "소품",
+      "source_url": "https://www.musinsa.com/search/goods?keyword=%EB%B2%A8%ED%8A%B8&gf=A",
+      "collected_at": "2026-11-04T03:21:43.285974+00:00",
+      "status": "ok",
+      "raw_related_count": 7,
+      "accepted_count": 3,
+      "raw_terms": [
+        "여자 벨트",
+        "무탠다드 벨트",
+        "웨스턴 벨트",
+        "위빙벨트",
+        "남자벨트",
+        "도프제이슨 벨트",
+        "러닝벨트"
+      ],
+      "accepted_terms": [
+        "웨스턴 벨트",
+        "위빙벨트",
+        "러닝벨트"
+      ]
+    }
+  ],
+  "official_categories": [
+    {
+      "major": "상의",
+      "term": "긴소매 티셔츠",
+      "category_id": "001010",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "맨투맨/스웨트",
+      "category_id": "001005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "셔츠/블라우스",
+      "category_id": "001002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "후드 티셔츠",
+      "category_id": "001004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "반소매 티셔츠",
+      "category_id": "001001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "피케/카라 티셔츠",
+      "category_id": "001003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "니트/스웨터",
+      "category_id": "001006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "민소매 티셔츠",
+      "category_id": "001011",
+      "source_type": "official_category"
+    },
+    {
+      "major": "상의",
+      "term": "기타 상의",
+      "category_id": "001008",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "후드 집업",
+      "category_id": "002022",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "블루종/MA-1",
+      "category_id": "002001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "레더/라이더스 재킷",
+      "category_id": "002002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "슈트/블레이저 재킷",
+      "category_id": "002003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "카디건",
+      "category_id": "002020",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "경량 패딩/패딩 베스트",
+      "category_id": "002027",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "사파리/헌팅 재킷",
+      "category_id": "002014",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "트러커 재킷",
+      "category_id": "002017",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "스타디움 재킷",
+      "category_id": "002004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "나일론/코치 재킷",
+      "category_id": "002006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "트레이닝 재킷",
+      "category_id": "002018",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "아노락 재킷",
+      "category_id": "002019",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "플리스/뽀글이",
+      "category_id": "002023",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "환절기 코트",
+      "category_id": "002008",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "베스트",
+      "category_id": "002021",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "무스탕/퍼",
+      "category_id": "002025",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "겨울 싱글 코트",
+      "category_id": "002007",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "겨울 더블 코트",
+      "category_id": "002024",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "겨울 기타 코트",
+      "category_id": "002009",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "롱패딩/헤비 아우터",
+      "category_id": "002013",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "숏패딩/헤비 아우터",
+      "category_id": "002012",
+      "source_type": "official_category"
+    },
+    {
+      "major": "아우터",
+      "term": "기타 아우터",
+      "category_id": "002015",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "데님 팬츠",
+      "category_id": "003002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "트레이닝/조거 팬츠",
+      "category_id": "003004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "코튼 팬츠",
+      "category_id": "003007",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "슈트 팬츠/슬랙스",
+      "category_id": "003008",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "숏 팬츠",
+      "category_id": "003009",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "레깅스",
+      "category_id": "003005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "점프 슈트/오버올",
+      "category_id": "003010",
+      "source_type": "official_category"
+    },
+    {
+      "major": "바지",
+      "term": "기타 하의",
+      "category_id": "003006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "원피스/스커트",
+      "term": "미니원피스",
+      "category_id": "100001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "원피스/스커트",
+      "term": "미디원피스",
+      "category_id": "100002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "원피스/스커트",
+      "term": "맥시원피스",
+      "category_id": "100003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "원피스/스커트",
+      "term": "미니스커트",
+      "category_id": "100004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "원피스/스커트",
+      "term": "미디스커트",
+      "category_id": "100005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "원피스/스커트",
+      "term": "롱스커트",
+      "category_id": "100006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "스니커즈",
+      "category_id": "103004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "스포츠화",
+      "category_id": "103005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "구두",
+      "category_id": "103001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "부츠/워커",
+      "category_id": "103002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "샌들/슬리퍼",
+      "category_id": "103003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "패딩/퍼 신발",
+      "category_id": "103007",
+      "source_type": "official_category"
+    },
+    {
+      "major": "신발",
+      "term": "신발용품",
+      "category_id": "103006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "메신저/크로스 백",
+      "category_id": "004002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "숄더백",
+      "category_id": "004003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "백팩",
+      "category_id": "004001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "토트백",
+      "category_id": "004015",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "에코백",
+      "category_id": "004014",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "보스턴/더플백",
+      "category_id": "004006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "웨이스트 백",
+      "category_id": "004007",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "파우치 백",
+      "category_id": "004013",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "브리프 케이스",
+      "category_id": "004008",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "캐리어",
+      "category_id": "004009",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "가방 소품",
+      "category_id": "004012",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "지갑/머니클립",
+      "category_id": "004016",
+      "source_type": "official_category"
+    },
+    {
+      "major": "가방",
+      "term": "클러치 백",
+      "category_id": "004005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "캡/야구모자",
+      "category_id": "120001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "헌팅캡/베레모",
+      "category_id": "120002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "페도라",
+      "category_id": "120003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "버킷/사파리햇",
+      "category_id": "120004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "비니",
+      "category_id": "120005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "트루퍼",
+      "category_id": "120006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "바라클라바",
+      "category_id": "120007",
+      "source_type": "official_category"
+    },
+    {
+      "major": "모자",
+      "term": "기타 모자",
+      "category_id": "120008",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "머플러",
+      "category_id": "101008",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "주얼리",
+      "category_id": "101006",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "양말/레그웨어",
+      "category_id": "101002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "선글라스/안경테",
+      "category_id": "101003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "액세서리",
+      "category_id": "101004",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "시계",
+      "category_id": "101005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "소품",
+      "term": "벨트",
+      "category_id": "101007",
+      "source_type": "official_category"
+    },
+    {
+      "major": "속옷/홈웨어",
+      "term": "홈웨어",
+      "category_id": "026005",
+      "source_type": "official_category"
+    },
+    {
+      "major": "속옷/홈웨어",
+      "term": "여성 속옷 상의",
+      "category_id": "026001",
+      "source_type": "official_category"
+    },
+    {
+      "major": "속옷/홈웨어",
+      "term": "여성 속옷 하의",
+      "category_id": "026002",
+      "source_type": "official_category"
+    },
+    {
+      "major": "속옷/홈웨어",
+      "term": "여성 속옷 세트",
+      "category_id": "026003",
+      "source_type": "official_category"
+    },
+    {
+      "major": "속옷/홈웨어",
+      "term": "남성 속옷",
+      "category_id": "026004",
+      "source_type": "official_category"
+    }
+  ],
+  "related_search_terms": [
+    {
+      "term": "긴팔티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "긴소매 티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "반팔티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "레이어드 티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "스트라이프 티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "크롭 티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "7부 티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "럭비 티셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "맨투맨",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "티셔츠",
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8B%B0%EC%85%94%EC%B8%A0&gf=A",
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:20.643299+00:00"
+    },
+    {
+      "term": "와이드 청바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "세미와이드 청바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "흑청바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "밴딩 청바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "진청바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "연청바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "청바지",
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%B2%AD%EB%B0%94%EC%A7%80&gf=A",
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:24.909684+00:00"
+    },
+    {
+      "term": "스웨이드 자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "블레이저",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "워크자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "트러커 자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "레더자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "가죽자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "필드자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "블루종",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "데님자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "점퍼",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "아우터",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "청자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "퍼자켓",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "항공점퍼",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "숏코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓",
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A",
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "야상",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓",
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A",
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "무스탕",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "자켓"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9E%90%EC%BC%93&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:26.085389+00:00"
+    },
+    {
+      "term": "체크셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:27.329618+00:00"
+    },
+    {
+      "term": "스트라이프 셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:27.329618+00:00"
+    },
+    {
+      "term": "크롭 셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:27.329618+00:00"
+    },
+    {
+      "term": "반팔셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:27.329618+00:00"
+    },
+    {
+      "term": "데님셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "셔츠"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:27.329618+00:00"
+    },
+    {
+      "term": "니트",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "셔츠",
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%85%94%EC%B8%A0&gf=A",
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:27.329618+00:00"
+    },
+    {
+      "term": "브이넥 니트",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "헨리넥 니트",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "니트집업",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "니트 가디건",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "크롭 니트",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "반팔니트",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "셔츠",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "니트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%8B%88%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:28.475100+00:00"
+    },
+    {
+      "term": "무지 맨투맨",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "오버핏 맨투맨",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "기모 맨투맨",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "크롭 맨투맨",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "반집업 맨투맨",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "후드집업",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "후드티",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "후드",
+      "source_type": "related_search",
+      "majors": [
+        "상의"
+      ],
+      "search_keywords": [
+        "맨투맨"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%A7%A8%ED%88%AC%EB%A7%A8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:29.563329+00:00"
+    },
+    {
+      "term": "롱코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "하프코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "발마칸 코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "트렌치코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "떡볶이코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "카코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "하이넥 코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "캐시미어 코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "패딩",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "코트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%BD%94%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:30.644227+00:00"
+    },
+    {
+      "term": "숏패딩",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "패딩"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:31.951041+00:00"
+    },
+    {
+      "term": "경량패딩",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "패딩"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:31.951041+00:00"
+    },
+    {
+      "term": "롱패딩",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "패딩"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:31.951041+00:00"
+    },
+    {
+      "term": "패딩조끼",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "패딩"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:31.951041+00:00"
+    },
+    {
+      "term": "코트",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "패딩"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:31.951041+00:00"
+    },
+    {
+      "term": "후리스",
+      "source_type": "related_search",
+      "majors": [
+        "아우터"
+      ],
+      "search_keywords": [
+        "패딩"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%ED%8C%A8%EB%94%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:31.951041+00:00"
+    },
+    {
+      "term": "세미와이드 슬랙스",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:33.079234+00:00"
+    },
+    {
+      "term": "와이드 슬랙스",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:33.079234+00:00"
+    },
+    {
+      "term": "밴딩 슬랙스",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:33.079234+00:00"
+    },
+    {
+      "term": "부츠컷 슬랙스",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:33.079234+00:00"
+    },
+    {
+      "term": "스트라이프 슬랙스",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:33.079234+00:00"
+    },
+    {
+      "term": "와이드 히든 밴딩 슬랙스",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "슬랙스"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%AC%EB%9E%99%EC%8A%A4&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:33.079234+00:00"
+    },
+    {
+      "term": "트레이닝 반바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "반바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%B0%98%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:34.219247+00:00"
+    },
+    {
+      "term": "운동 반바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "반바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%B0%98%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:34.219247+00:00"
+    },
+    {
+      "term": "청반바지",
+      "source_type": "related_search",
+      "majors": [
+        "바지"
+      ],
+      "search_keywords": [
+        "반바지"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%B0%98%EB%B0%94%EC%A7%80&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:34.219247+00:00"
+    },
+    {
+      "term": "미니스커트",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "롱스커트",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "플리츠 스커트",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "미디 스커트",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "레이어드 스커트",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "스커트팬츠",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "새틴스커트",
+      "source_type": "related_search",
+      "majors": [
+        "원피스/스커트"
+      ],
+      "search_keywords": [
+        "스커트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8A%A4%EC%BB%A4%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:35.751573+00:00"
+    },
+    {
+      "term": "메리제인 운동화",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "운동화"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9A%B4%EB%8F%99%ED%99%94&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:36.991311+00:00"
+    },
+    {
+      "term": "키높이 운동화",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "운동화"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9A%B4%EB%8F%99%ED%99%94&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:36.991311+00:00"
+    },
+    {
+      "term": "통굽 운동화",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "운동화"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9A%B4%EB%8F%99%ED%99%94&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:36.991311+00:00"
+    },
+    {
+      "term": "스니커즈",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "운동화"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9A%B4%EB%8F%99%ED%99%94&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:36.991311+00:00"
+    },
+    {
+      "term": "신발",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "운동화",
+        "구두"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%9A%B4%EB%8F%99%ED%99%94&gf=A",
+        "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:36.991311+00:00"
+    },
+    {
+      "term": "정장구두",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "구두"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:38.507789+00:00"
+    },
+    {
+      "term": "슬링백 구두",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "구두"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:38.507789+00:00"
+    },
+    {
+      "term": "키높이 구두",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "구두"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:38.507789+00:00"
+    },
+    {
+      "term": "더비슈즈",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "구두"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:38.507789+00:00"
+    },
+    {
+      "term": "로퍼",
+      "source_type": "related_search",
+      "majors": [
+        "신발"
+      ],
+      "search_keywords": [
+        "구두"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B5%AC%EB%91%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:38.507789+00:00"
+    },
+    {
+      "term": "백팩",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "보부상가방",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "노트북 가방",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "책가방",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "스웨이드 가방",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "등산가방",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "에코백",
+      "source_type": "related_search",
+      "majors": [
+        "가방"
+      ],
+      "search_keywords": [
+        "가방"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EA%B0%80%EB%B0%A9&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:39.713736+00:00"
+    },
+    {
+      "term": "캡모자",
+      "source_type": "related_search",
+      "majors": [
+        "모자"
+      ],
+      "search_keywords": [
+        "모자"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%AA%A8%EC%9E%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:41.111030+00:00"
+    },
+    {
+      "term": "볼캡",
+      "source_type": "related_search",
+      "majors": [
+        "모자"
+      ],
+      "search_keywords": [
+        "모자"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%AA%A8%EC%9E%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:41.111030+00:00"
+    },
+    {
+      "term": "러닝모자",
+      "source_type": "related_search",
+      "majors": [
+        "모자"
+      ],
+      "search_keywords": [
+        "모자"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%AA%A8%EC%9E%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:41.111030+00:00"
+    },
+    {
+      "term": "비니",
+      "source_type": "related_search",
+      "majors": [
+        "모자"
+      ],
+      "search_keywords": [
+        "모자"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%AA%A8%EC%9E%90&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:41.111030+00:00"
+    },
+    {
+      "term": "메탈시계",
+      "source_type": "related_search",
+      "majors": [
+        "소품"
+      ],
+      "search_keywords": [
+        "시계"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8B%9C%EA%B3%84&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:42.242313+00:00"
+    },
+    {
+      "term": "손목시계",
+      "source_type": "related_search",
+      "majors": [
+        "소품"
+      ],
+      "search_keywords": [
+        "시계"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8B%9C%EA%B3%84&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:42.242313+00:00"
+    },
+    {
+      "term": "가죽시계",
+      "source_type": "related_search",
+      "majors": [
+        "소품"
+      ],
+      "search_keywords": [
+        "시계"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EC%8B%9C%EA%B3%84&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:42.242313+00:00"
+    },
+    {
+      "term": "웨스턴 벨트",
+      "source_type": "related_search",
+      "majors": [
+        "소품"
+      ],
+      "search_keywords": [
+        "벨트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%B2%A8%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:43.285974+00:00"
+    },
+    {
+      "term": "위빙벨트",
+      "source_type": "related_search",
+      "majors": [
+        "소품"
+      ],
+      "search_keywords": [
+        "벨트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%B2%A8%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:43.285974+00:00"
+    },
+    {
+      "term": "러닝벨트",
+      "source_type": "related_search",
+      "majors": [
+        "소품"
+      ],
+      "search_keywords": [
+        "벨트"
+      ],
+      "source_urls": [
+        "https://www.musinsa.com/search/goods?keyword=%EB%B2%A8%ED%8A%B8&gf=A"
+      ],
+      "collected_at": "2026-11-04T03:21:43.285974+00:00"
+    }
+  ]
+}

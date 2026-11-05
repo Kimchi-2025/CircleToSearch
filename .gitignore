@@ -1,0 +1,23 @@
+# 환경변수 / API 키
+.env
+.env.*
+!.env.example
+
+# Python / FastAPI
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# React / Vite
+node_modules/
+dist/
+.vite/
+
+# 모바일 테스트 임시 파일
+.mobile-test/
+
+# 기타
+.DS_Store
+*.log
