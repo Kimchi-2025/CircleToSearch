@@ -19,7 +19,7 @@ CircleToSearch/
 │   ├── main.py
 │   ├── routers/circle_search.py
 │   ├── services/vision_service.py, vision_prompt.py
-│   ├── services/musinsa_service.py, recommendation_service.py
+│   ├── services/recommendation_service.py 등 상품 검색 서비스
 │   ├── services/sam_service.py
 │   ├── .env.example
 │   ├── requirements.txt, requirements-dev.txt
@@ -82,9 +82,9 @@ Android Chrome 카메라는 HTTPS 또는 `localhost` 같은 보안 컨텍스트�
 
 서버는 JPEG/PNG/WebP, 최대 10 MB, 각 변 최대 8000 px를 허용합니다. 파일의 실제 형식과 크기, 좌표 범위, 다각형의 크기와 박스 일치 여부를 검증합니다. 정상 분석은 `status: "success"`, `selected_object`, `geometry`, `search_keywords`, `metadata`와 기존 `selection` 요약·`sam_enabled: false`를 반환합니다. 상품이 없으면 `status: "no_object"`, 키가 없으면 HTTP 503입니다. 잘못된 파일이나 좌표는 HTTP 413/415/422로 반환합니다. 모델은 선택선을 표시한 최대 1536 px 이미지 **한 장**만 받으며, 반환 좌표는 서버가 전송 이미지의 픽셀에서 원본 전송 이미지의 픽셀로 변환합니다. 추정 Polygon이 없거나 유효하지 않거나 재검토가 필요하면 핑크 오버레이를 표시하지 않습니다. 결과는 프로세스 메모리에 최대 32건만 캐시하며 파일·DB에 저장하지 않습니다.
 
-## 무신사 유사 상품 추천
+## 유사 상품 추천
 
-분석 결과가 표시된 뒤 `유사 상품 검색`을 누르면 브라우저가 원본 이미지의 바운딩 박스 기반 JPEG crop과 기존 Vision 설명·검색어를 `POST /api/circle-search/recommend`로 전송합니다. 서버는 Playwright Chromium으로 최대 30개 후보를 순차 검색하고, 번호를 붙인 상품 썸네일 모음과 crop을 OpenAI Vision 호출 한 번으로 비교해 최대 10개를 추천합니다. 같은 요청의 결과는 서버 메모리에만 캐시합니다. 무신사 접근 제한 또는 CAPTCHA가 감지되면 검색을 중단합니다. Chromium이 없다면 백엔드 가상환경에서 `python -m playwright install chromium`을 실행하세요.
+분석 결과가 표시된 뒤 `유사 상품 검색`을 누르면 브라우저가 원본 이미지의 바운딩 박스 기반 JPEG crop과 기존 Vision 설명·검색어를 `POST /api/circle-search/recommend`로 전송합니다. 서버는 Playwright Chromium으로 쇼핑 웹페이지에서 최대 30개 후보를 순차 검색하고, 번호를 붙인 상품 썸네일 모음과 crop을 OpenAI Vision 호출 한 번으로 비교해 최대 10개를 추천합니다. 같은 요청의 결과는 서버 메모리에만 캐시합니다. 웹페이지 접근 제한 또는 CAPTCHA가 감지되면 검색을 중단합니다. Chromium이 없다면 백엔드 가상환경에서 `python -m playwright install chromium`을 실행하세요.
 
 ## 검증
 
