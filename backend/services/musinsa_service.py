@@ -262,7 +262,11 @@ def search_products(keywords, product_type=None, include_diagnostics=False):
                                             SELECTOR_TIMEOUT_MS, type(exc).__name__)
                                 pass  # Empty results are possible; inspect the page before continuing.
                         stage, stage_started = 'body_read', time.monotonic()
-                        body = page.locator('body').inner_text(timeout=BODY_TIMEOUT_MS)
+                        try:
+                            body = page.locator('body').inner_text(timeout=BODY_TIMEOUT_MS)
+                        except PlaywrightTimeoutError:
+                            logger.info('Musinsa body_read_fallback keyword_index=%s method=text_content', keyword_index)
+                            body = page.locator('body').text_content(timeout=BODY_TIMEOUT_MS) or ''
                         stage, stage_started = 'access_check', time.monotonic()
                         if selector_wait_failed:
                             logger.info('Musinsa selector_missing_dom keyword_index=%s body_chars=%s '
