@@ -1,0 +1,14 @@
+.git
+.vscode
+.mobile-test
+**/.env
+**/.env.*
+**/.venv
+**/venv
+**/node_modules
+**/dist
+**/__pycache__
+**/.pytest_cache
+**/*.pyc
+**/test_*.py
+*.log
