@@ -15,6 +15,8 @@ MAX_POOL = 120  # Four result pages, at most 30 cards each; only 30 reach Vision
 ENOUGH_PRODUCTS = 20
 MAX_PER_QUERY = 18
 NAVIGATION_TIMEOUT_MS = int(os.getenv('MUSINSA_NAVIGATION_TIMEOUT_MS', '20000'))
+SELECTOR_TIMEOUT_MS = max(1, min(int(os.getenv('MUSINSA_SELECTOR_TIMEOUT_MS', '4500')), 10000))
+BODY_TIMEOUT_MS = max(1, min(int(os.getenv('MUSINSA_BODY_TIMEOUT_MS', '3000')), 8000))
 ACCESS_DENIED_TEXT = ('접속이 일시적으로 제한', '비정상적인 접근', 'Access Denied', 'captcha')
 logger = logging.getLogger('uvicorn.error')
 
@@ -247,24 +249,35 @@ def search_products(keywords, product_type=None, include_diagnostics=False):
                         if status != 200:
                             raise SearchError(f'무신사 검색 페이지 응답 오류: HTTP {status}')
                         stage, stage_started = 'selector_wait', time.monotonic()
-                        try:
-                            page.locator(SELECTOR).first.wait_for(state='attached', timeout=4500)
-                        except Exception as exc:
-                            logger.info('Musinsa selector_wait_failed keyword_index=%s elapsed_ms=%s error_type=%s',
-                                        keyword_index, round((time.monotonic() - stage_started) * 1000),
-                                        type(exc).__name__)
-                            pass  # Empty results are possible; inspect the page before continuing.
+                        selector_wait_failed = False
+                        selector = page.locator(SELECTOR)
+                        if selector.count() == 0:
+                            try:
+                                selector.first.wait_for(state='attached', timeout=SELECTOR_TIMEOUT_MS)
+                            except Exception as exc:
+                                selector_wait_failed = True
+                                logger.info('Musinsa selector_wait_failed keyword_index=%s elapsed_ms=%s '
+                                            'timeout_ms=%s error_type=%s',
+                                            keyword_index, round((time.monotonic() - stage_started) * 1000),
+                                            SELECTOR_TIMEOUT_MS, type(exc).__name__)
+                                pass  # Empty results are possible; inspect the page before continuing.
                         stage, stage_started = 'body_read', time.monotonic()
-                        body = page.locator('body').inner_text(timeout=3000)
+                        body = page.locator('body').inner_text(timeout=BODY_TIMEOUT_MS)
                         stage, stage_started = 'access_check', time.monotonic()
+                        if selector_wait_failed:
+                            logger.info('Musinsa selector_missing_dom keyword_index=%s body_chars=%s '
+                                        'dom_state=%s http_status=%s', keyword_index, len(body),
+                                        'empty_body' if not body.strip() else 'body_without_product_selector', http_status)
                         if any(text.lower() in body.lower() for text in ACCESS_DENIED_TEXT):
                             raise SearchError('무신사 접근 제한 또는 CAPTCHA가 감지됐습니다.', 'access_blocked')
                         stage, stage_started = 'extraction', time.monotonic()
                         extracted = extract_products(page.content(), keyword, MAX_PRODUCTS)
                         collected = len(extracted)
                         if not collected:
-                            logger.warning('Musinsa extraction_empty keyword_index=%s elapsed_ms=%s http_status=%s',
-                                           keyword_index, round((time.monotonic() - stage_started) * 1000), http_status)
+                            logger.warning('Musinsa extraction_empty keyword_index=%s elapsed_ms=%s '
+                                           'http_status=%s body_chars=%s',
+                                           keyword_index, round((time.monotonic() - stage_started) * 1000),
+                                           http_status, len(body))
                         stage, stage_started = 'filter', time.monotonic()
                         for product in extracted:
                             family = product_family(product['product_name'])
