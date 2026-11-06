@@ -1,18 +1,20 @@
 """Public Musinsa search page parser, adapted from musinsa_final_30_gallery.py."""
 
 import logging
+import os
 import re
 import time
 from urllib.parse import urlencode, urljoin, urlparse
 
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
 SELECTOR = 'a.gtm-view-item-list[data-item-id][data-item-list-id="goods_list"]'
 MAX_PRODUCTS = 30
 MAX_POOL = 120  # Four result pages, at most 30 cards each; only 30 reach Vision.
 ENOUGH_PRODUCTS = 20
 MAX_PER_QUERY = 18
+NAVIGATION_TIMEOUT_MS = int(os.getenv('MUSINSA_NAVIGATION_TIMEOUT_MS', '20000'))
 ACCESS_DENIED_TEXT = ('접속이 일시적으로 제한', '비정상적인 접근', 'Access Denied', 'captcha')
 logger = logging.getLogger('uvicorn.error')
 
@@ -214,7 +216,12 @@ def search_products(keywords, product_type=None, include_diagnostics=False):
                     collected = type_filtered = duplicate = capacity_skipped = 0
                     query_status = 'executed'
                     try:
-                        response = page.goto(url, wait_until='domcontentloaded', timeout=20000)
+                        try:
+                            response = page.goto(url, wait_until='domcontentloaded', timeout=NAVIGATION_TIMEOUT_MS)
+                        except PlaywrightTimeoutError:
+                            logger.warning('Musinsa navigation_timeout keyword_index=%s timeout_ms=%s',
+                                           index + 1, NAVIGATION_TIMEOUT_MS)
+                            raise
                         status = response.status if response else None
                         if status in (403, 429):
                             raise SearchError('무신사 접근이 제한됐습니다. 검색을 중단합니다.', 'access_blocked')
