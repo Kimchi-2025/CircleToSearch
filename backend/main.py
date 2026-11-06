@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
@@ -26,8 +26,10 @@ app.add_middleware(
 app.include_router(circle_search_router)
 
 
-@app.get("/health")
-def health() -> dict[str, str]:
+@app.api_route("/health", methods=["GET", "HEAD"])
+def health(request: Request):
+    if request.method == "HEAD":
+        return Response(status_code=200)
     return {"status": "ok"}
 
 
